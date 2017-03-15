@@ -1,6 +1,27 @@
 {
   "name": "node-cielo-recurrent",
   "version": "1.0.0",
+  "homepage": "https://github.com/robsonldo/node-cielo-recurrent",
+  "keywords": [
+    "cielo",
+    "recurrent"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "command to run here"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robsonldo/node-cielo-recurrent.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robsonldo/node-cielo-recurrent/issues"
+  },
+  "author": {
+    "name": "Robson Oliveira <robsonldo@gmail.com>"
+  },
   "dependencies": {
     "request": "2.81.0",
     "uuid": "3.0.1"
