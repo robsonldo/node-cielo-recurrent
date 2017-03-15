@@ -1,5 +1,6 @@
 {
   "name": "node-cielo-recurrent",
+  "description": "Simples Cliente de transações recorrentes Cielo API 3.0",
   "version": "1.0.0",
   "homepage": "https://github.com/robsonldo/node-cielo-recurrent",
   "keywords": [
@@ -7,8 +8,7 @@
     "recurrent"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "command to run here"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "index.js",
   "repository": {
