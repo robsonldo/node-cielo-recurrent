@@ -1,0 +1,14 @@
+{
+  "dev":{
+    "url": {
+      "transaction": "https://apisandbox.cieloecommerce.cielo.com.br",
+      "query": "https://apiquerysandbox.cieloecommerce.cielo.com.br"
+    }
+  },
+  "production": {
+    "url": {
+      "transaction": "https://api.cieloecommerce.cielo.com.br",
+      "query": "https://apiquery.cieloecommerce.cielo.com.br"
+    }
+  }
+}

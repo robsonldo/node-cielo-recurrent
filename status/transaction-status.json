@@ -1,0 +1,13 @@
+{
+  "codes":{
+    "0": "NotFinished",
+    "1": "Authorized",
+    "2": "PaymentConfirmed",
+    "3": "Denied",
+    "10": "Voided",
+    "11": "Refunded",
+    "12": "Pending",
+    "13": "Aborted",
+    "20": "Scheduled"
+  }
+}
